@@ -1,4 +1,4 @@
-![Sample](https://drive.google.com/file/d/1vdkgw9cgvxfqXaMSmuz3wu-xn2y6khLN/view?usp=sharing?raw=true)
+![Sample](https://github.com/mllemartins/test-adikteev/blob/master/img-test-adikteev.jpg?raw=true)
 
 # Test-adikteev
 - @see [https://www.adikteev.com/](https://www.adikteev.com/)
