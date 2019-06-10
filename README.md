@@ -1,7 +1,7 @@
 # Test-adikteev
 - @see [https://www.adikteev.com/](https://www.adikteev.com/)
 
-![Sample (https://github.com/mllemartins/test-adikteev/blob/master/img-test-adikteev.jpg?raw=true)
+![Sample](https://github.com/mllemartins/test-adikteev/blob/master/img-test-adikteev.jpg?raw=true)
 
 
 ## 1. TO DO
