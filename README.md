@@ -1,4 +1,4 @@
-![Sample](https://github.com/mllemartins/test-lucca-chat-app/blob/master/ui/chat-app-mockup.jpg?raw=true)
+![Sample](https://drive.google.com/file/d/1vdkgw9cgvxfqXaMSmuz3wu-xn2y6khLN/view?usp=sharing?raw=true)
 
 # Test-adikteev
 - @see [https://www.adikteev.com/](https://www.adikteev.com/)
